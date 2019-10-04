@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "_comment": "adding something to the scripts means we can trigger that from the command line.",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
   },
   "keywords": [],
   "author": "",
